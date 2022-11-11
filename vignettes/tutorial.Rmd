@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 library(package.11.10.22)
 ```
 
-Demo `Square`:
+Demo `square`:
 ```{r}
 square(1:3)
 ```
